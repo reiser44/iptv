@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/ani.png",Ani
+http://50.7.136.50:8081/ani/index.m3u8?wmsAuthSign=b13fc4b99606103f9dac4a562939f101-1574580610-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/disney_channel.png",Disney Channel
+http://50.7.136.50:8081/disney/index.m3u8?wmsAuthSign=27a0e2560bea3edc6a25e16cecb821d2-1574580593-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/jimjam.png",JimJam
+http://50.7.136.50:8081/jimjam/index.m3u8?wmsAuthSign=29f89ae58fb737d31949fef5d66072b7-1574580610-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/lale.png",Lale
+http://50.7.136.50:8081/lale/index.m3u8?wmsAuthSign=841ce2f454b22af0d9f0d99d352f3c66-1574580611-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/nick-jr.png",Nick Jr
+http://50.7.136.50:8081/nickjr/index.m3u8?wmsAuthSign=3d4269a71e6491dd84f8121358600c0e-1574580601-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/nickelodeon.png",Nickelodeon
+http://50.7.136.50:8081/nickelodeon/index.m3u8?wmsAuthSign=0e68f2cf6e603849fe55b690dcca525a-1574580593-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a000001591688e32ac425ee378f3bee8f08/orig",TiJi
+http://50.7.136.50:8081/tiji/index.m3u8?wmsAuthSign=da3994071d64a1de4d3f3c3c5e3a2b67-1574580601-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/detsky.png",Детский
+http://50.7.136.50:8081/detskij/index.m3u8?wmsAuthSign=88a55266a2abfe1bdf630991c150bede-1574580606-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/detsky-mir.png",Детский мир
+http://50.7.136.50:8081/detmir/index.m3u8?wmsAuthSign=e80eff4a421e9e98e96d68b76f98a1e2-1574580611-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/karusel.png",Карусель
+http://50.7.136.50:8081/karusel/index.m3u8?wmsAuthSign=f51a1bd8c01aaee14e48fa4a0d53855d-1574580606-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/mama.png",МАМА
+http://50.7.136.50:8081/mama/index.m3u8?wmsAuthSign=b1e753bfa6650daf8b508d76e590fdac-1574580608-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/mult.png",МУЛЬТ
+http://50.7.136.50:8081/mult/index.m3u8?wmsAuthSign=5bc17535c0daf1df59fbf44b9b0d1c15-1574580595-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="http://epg.it999.ru/img/2239.png",Малыш
+http://50.7.136.50:8081/malysh/index.m3u8?wmsAuthSign=540931fd41d2ad14a2218e388aed6276-1574580616-241i442i44i491
+#EXTINF:-1 group-title="Детские",Малятко
+http://50.7.136.50:8081/malatkotv/index.m3u8?wmsAuthSign=a24f785a5925d971fd615b07926c31a5-1574580622-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/multimuzyka.png",Мульт и музыка
+http://50.7.136.50:8081/strana/index.m3u8?wmsAuthSign=976c41828c351a80cafd6ad4fc08f8b3-1574580608-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/multimania.png",Мультимания
+http://50.7.136.50:8081/multimania/index.m3u8?wmsAuthSign=c422b665b89c65ec365609de9847a009-1574580600-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/o_.png",О!
+http://50.7.136.50:8081/o!/index.m3u8?wmsAuthSign=d9b9a902741ac6bffbce236796ee6fd0-1574580618-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/pixel.png",Пиксель
+http://50.7.136.50:8081/piksel/index.m3u8?wmsAuthSign=6c7456a81a45280bccd4720b6c6f92f8-1574580622-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/plusplus.png",ПлюсПлюс
+http://50.7.136.50:8081/plusplus/index.m3u8?wmsAuthSign=49a013fd4e3c260da552fd7124a079f7-1574580621-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="http://epg.it999.ru/img/2287.png",Радость моя
+http://50.7.136.50:8081/radost_moya/index.m3u8?wmsAuthSign=ff75ccbb2a83ad006173693b41bd187e-1574580605-241i442i44i491
+#EXTINF:-1 group-title="Детские" tvg-logo="http://help.telecom.by/_files/TelecomTV/icons/000001445.jpg",Рыжий
+http://50.7.136.50:8081/riziy/index.m3u8?wmsAuthSign=d20585365e0135e31eb032e04b0ffe7e-1574580609-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://epg.it999.ru/img/322.png",Outdoor Channel
+http://50.7.136.50:8081/outdoor/index.m3u8?wmsAuthSign=9f11c2f705d7b2243e0e1001f8455cbe-1574580607-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://epg.it999.ru/img/2008.png",Авто 24
+http://50.7.136.50:8081/avto24/index.m3u8?wmsAuthSign=6ad5761fe1d03c580ef1f899d12d8c34-1574580604-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://iptvx.one/icn/avto-plus.png",Авто плюс
+http://50.7.136.50:8081/avtoplus/index.m3u8?wmsAuthSign=2a378b30c381d8160352be050140929d-1574580599-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://iptvx.one/icn/box-tv.png",Бокс ТВ
+http://50.7.136.50:8081/box/index.m3u8?wmsAuthSign=cd69f60519d75f6bc5a9177c93281e31-1574580603-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://iptvx.one/icn/drive.png",Драйв
+http://50.7.136.50:8081/drivetv/index.m3u8?wmsAuthSign=0ba24ba677cde0aa183e169988cb7d43-1574580614-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://epg.it999.ru/img/2028.png",Морской
+http://50.7.136.50:8081/morskoi/index.m3u8?wmsAuthSign=402320695805d4d5dc3cf3de69c400cc-1574580610-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://iptvx.one/icn/muzhskoj.png",Мужской
+http://50.7.136.50:8081/muzhskoj/index.m3u8?wmsAuthSign=a04c8f5c1eb4daa577c522266ca0c4f0-1574580603-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a00000166f8597f24d5bb301b90c25ab103/orig",Охота и рыбалка
+http://50.7.136.50:8081/ohotaribalka/index.m3u8?wmsAuthSign=a2a80a6babe642c8992fa7ed425b1ca4-1574580600-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://tvoetv.online/img/ch_icons/ohotnik_i_rybolov.png",Охотник и рыболов
+http://50.7.136.50:8081/oxot_i_rib/index.m3u8?wmsAuthSign=c5242148ce331a535ba0f63b32dd5d0c-1574580600-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://iptvx.one/icn/russky-ekstrim.png",Русский Экстрим
+http://50.7.136.50:8081/rys_ekstrim/index.m3u8?wmsAuthSign=580efe37381dc9782af9d952103002a9-1574580605-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://iptvx.one/icn/texno-24.png",Техно 24
+http://50.7.136.50:8081/24techno/index.m3u8?wmsAuthSign=8413b74e0465b7084e70e5277bc77a8f-1574580597-241i442i44i491
+#EXTINF:-1 group-title="Мужские" tvg-logo="https://iptvx.one/icn/trofey.png",Трофей
+http://50.7.136.50:8081/trofey/index.m3u8?wmsAuthSign=7a179ee1c4a2b6e36f5ae6c23c765b91-1574580623-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/icn/bridge-tv.png",Bridge TV
+http://50.7.136.50:8081/bridge/index.m3u8?wmsAuthSign=8c7db8b2e79ef90890a585d2bc1031d4-1574580605-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img/1021.png",MTV
+http://50.7.136.50:8081/mtv_rys/index.m3u8?wmsAuthSign=54ba786429b7df4e79d69808b3676082-1574580598-241i442i44i491
+#EXTINF:-1 group-title="Музыка",Mezzoо
+http://50.7.136.50:8081/mezzo/index.m3u8?wmsAuthSign=356df5a27d8205b16610a5b22bb606df-1574580606-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tvoetv.online/img/ch_icons/ru_tv.png",RU TV
+http://50.7.144.75:8081/ru_tv/index.m3u8?wmsAuthSign=fcbbc367c1f1f57f247f6a8df0b35f95-1574580595-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/icn/vh1.png",VH1
+http://50.7.136.50:8081/vh1/index.m3u8?wmsAuthSign=60bfc0b8f71b83bc2ee243642b6c8eff-1574580607-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img/165.png",Жара
+http://50.7.136.50:8081/zhara/index.m3u8?wmsAuthSign=c93690c4984071028d8686490008b752-1574580617-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a00000166cfb87bf10d3d70ad81cc57938a/orig",Ля-Минор
+http://50.7.136.50:8081/lyaminor/index.m3u8?wmsAuthSign=1f3370440042483e6259a4514320cedd-1574580601-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/icn/m1-ua.png",М1
+http://50.7.136.50:8081/m1/index.m3u8?wmsAuthSign=d6197b83e9761eb3f34a3d5d4009f5aa-1574580622-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/icn/m2-ua.png",М2
+http://50.7.136.50:8081/m2/index.m3u8?wmsAuthSign=09b9aa3ef739882c73f5511879be3a5a-1574580622-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/icn/muztv.png",МУЗ-ТВ
+http://50.7.136.50:8081/muztv/index.m3u8?wmsAuthSign=9ea5eb5d7aa518d659344230c6d2242d-1574580597-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/icn/muzyka-pervogo.png",Музыка Первого
+http://50.7.136.50:8081/muzyka_pervogo/index.m3u8?wmsAuthSign=0acc4e7251291ba839cd8e24ec210853-1574580616-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/icn/tnt-music.png",ТНТ-Music
+http://50.7.136.50:8081/tnt_myzik/index.m3u8?wmsAuthSign=53e473bdda8f30d782f602934e3ba4b1-1574580612-241i442i44i491
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2278.png",Шансон ТВ
+http://50.7.136.50:8081/shanson/index.m3u8?wmsAuthSign=e770917f17eb4bcbe28616a5736a36eb-1574580607-241i442i44i491
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://iptvx.one/icn/112.png",112 Украина
+https://www.youtube.com/watch?v=3Q11d6I21PE&feature=youtu.be
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://tvoetv.online/img/ch_icons/360_gradusov.png",360 градусов
+http://50.7.136.50:8081/360gra/index.m3u8?wmsAuthSign=c808f3a18310cf15f4cb78b5d0fbc183-1574580609-241i442i44i491
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://iptvx.one/icn/cnn.png",CNN
+http://50.7.136.50:8081/cnn/index.m3u8?wmsAuthSign=8b645b7f6fa9a93a640b9d60e4263ab1-1574580612-241i442i44i491
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://tvoetv.online/img/ch_icons/russia_today.png",Russia Today
+http://50.7.136.50:8081/russia_today/index.m3u8?wmsAuthSign=71d7bc8835798c52f985299be460fff6-1574580606-241i442i44i491
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://tvoetv.online/img/ch_icons/espreso_tv.jpg",Еспресо ТВ
+https://www.youtube.com/watch?v=q2pZHbj1aoY
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://iptvx.one/icn/rbk.png",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="Познавательные",24_DOC
+http://50.7.136.50:8081/24doc/index.m3u8?wmsAuthSign=b3e8e54b4f13c0a062f6dddd5b2b5fc3-1574580599-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/365-dnej.png",365 дней ТВ
+http://50.7.136.50:8081/365_dney/index.m3u8?wmsAuthSign=69c98f16864cf2369d0b4f1f0e06e861-1574580605-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/fine-living.png",Fine Living
+http://50.7.136.50:8081/fine_living/index.m3u8?wmsAuthSign=e099bf8ec99ade576613284088b0c733-1574580614-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/galaxy-tv.png",Galaxy TV
+http://50.7.136.50:8081/galaxy/index.m3u8?wmsAuthSign=4602fd57522c78739a4c34e4541888f1-1574580599-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/hdlife.png",HD Life
+http://50.7.136.50:8081/hdlife/index.m3u8?wmsAuthSign=ecf638c1bc47010b817a9d3f25fefc53-1574580615-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000015655c7894893ebb44aaca239138a/orig",History
+http://50.7.136.50:8081/history/index.m3u8?wmsAuthSign=1231231277424d735c4194dc6166adbd-1574580596-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/nat-geo-wild-hd.png",NAT GEO WILD
+http://50.7.136.50:8081/natgeowild/index.m3u8?wmsAuthSign=42dc8a345195a5fcf8149cfdaf9daed4-1574580609-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/national-geographic-hd.png",National Geographic
+http://50.7.136.50:8081/nat_geogra/index.m3u8?wmsAuthSign=6eab662d9acb413b0a5f151ba4f6c062-1574580595-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2280.png",RTG TV
+http://50.7.136.50:8081/rtg/index.m3u8?wmsAuthSign=e5a26296990b9ff5e210bf6ba79cf87a-1574580611-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/travel-adventure.png",Travel+Adventure
+http://50.7.136.50:8081/travel_adventure/index.m3u8?wmsAuthSign=d9be70836b1e8f5171aef8761cae6e06-1574580599-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-history.png",Viasat History
+http://50.7.136.50:8081/vi_history/index.m3u8?wmsAuthSign=43d8a020131ce1f94cbad2fef25f014c-1574580598-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/765.png",Viasat Nature
+http://50.7.136.50:8081/vi_nature/index.m3u8?wmsAuthSign=2d6eeac31d6742277cfc1093d522039b-1574580606-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/bober.png",Бобер
+http://50.7.136.50:8081/bober/index.m3u8?wmsAuthSign=9e51eb03cf912751a8c44c227d85eca6-1574580612-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/eda.png",Еда
+http://50.7.136.50:8081/eda/index.m3u8?wmsAuthSign=a96d1380f7349dd82cef1c02e311c4d9-1574580602-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2298.png",Загородная жизнь
+http://50.7.136.50:8081/zagorod/index.m3u8?wmsAuthSign=fc6ca2807cb7732fbefd3ce40dd75221-1574580612-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/istoria.png",История
+http://50.7.136.50:8081/istoriya/index.m3u8?wmsAuthSign=2336447b616ae9cb3da8ae2734e25e40-1574580596-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/kuhnia.png",Кухня ТВ
+http://50.7.136.50:8081/kyxhya/index.m3u8?wmsAuthSign=6b87b30daf185661b81fe25165f8453d-1574580601-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/mega-ua.png",Мега
+http://50.7.136.50:8081/mega/index.m3u8?wmsAuthSign=e595035e96bd83b1d92f7ff75ff3f998-1574580620-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/moya-planeta.png",Моя планета
+http://50.7.136.50:8081/moyaplaneta/index.m3u8?wmsAuthSign=c3e8a6fbd0da0a583e552179042079f6-1574580595-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/nauka-20.png",Наука 2.0
+http://50.7.136.50:8081/nauka/index.m3u8?wmsAuthSign=4232f316afa90e8d56579b4451f7db19-1574580597-241i442i44i491
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a00000151859569e69b7cd1f9cb1907c24b/orig",Совершенно секретно
+http://50.7.136.50:8081/sov_sekretno/index.m3u8?wmsAuthSign=ebcfa7e2d7e2ca583beda9a1117fb41e-1574580596-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/paramount_comedy.png",Paramount Comedy
+http://50.7.136.50:8081/paramount/index.m3u8?wmsAuthSign=a3dfc5c56bb496ce162581cd8de23969-1574580594-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/2201.png",Zoom
+http://50.7.136.50:8081/zoom/index.m3u8?wmsAuthSign=5c12442dd6faf5a4218d8f64d964a659-1574580623-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://tvoetv.online/img/ch_icons/bigudi.png",Бигуди
+http://50.7.127.60:8081/bigydi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg6cb5e1e216454443e3dd9a35342c8629T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://tvoetv.online/img/ch_icons/jivi.png",Живи
+http://50.7.136.50:8081/jivi/index.m3u8?wmsAuthSign=ab85688c8411e3291734dcb2c32aebc2-1574580608-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/k1-ua.png",К1
+http://50.7.144.75:8081/k1/index.m3u8?wmsAuthSign=9c32e378898f7f4196fa55e521257d96-1574580620-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/k2-ua.png",К2
+http://50.7.144.75:8081/k2/index.m3u8?wmsAuthSign=82d7af1ea97a40fb43fc1c7cdc1b8b28-1574580620-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/nlo.png",НЛО TV
+http://50.7.136.50:8081/nlo/index.m3u8?wmsAuthSign=a217154592d1affa12a928a0fee88995-1574580621-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/novy.png",Новый канал
+http://50.7.136.50:8081/novii_kanal/index.m3u8?wmsAuthSign=4475934229bd83004d260fc92d890e8a-1574580619-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/pyatnica.png",Пятница
+http://50.7.136.50:8081/pjatnica/index.m3u8?wmsAuthSign=82ddee2da6d6c736b71970947e7b9396-1574580594-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://tvoetv.online/img/ch_icons/sarafan_tv.png",Сарафан ТВ
+http://50.7.136.50:8081/sarafan/index.m3u8?wmsAuthSign=ea256c5ee589ae97207b427181139552-1574580609-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/super.png",Супер
+http://50.7.136.50:8081/super/index.m3u8?wmsAuthSign=37de7a74c7c824e58e2ef49ec6ea5040-1574580594-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tet.png",ТЕТ
+http://50.7.136.50:8081/tet/index.m3u8?wmsAuthSign=7b45479a425a56757f376da2f74fda7b-1574580620-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4
+http://50.7.136.50:8081/tnt_com/index.m3u8?wmsAuthSign=765a9f611f65033fdfdf0e18cc8516be-1574580593-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные",Улыбка ребенка
+http://50.7.136.50:8081/ulibka/index.m3u8?wmsAuthSign=501f3d3da9be7552911e35027c12597b-1574580611-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/che.png",Че
+http://50.7.136.50:8081/che/index.m3u8?wmsAuthSign=e80324531c6410a0ad1ec1a5e2c818d0-1574580594-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/yu.png",Ю
+http://50.7.136.50:8081/yu/index.m3u8?wmsAuthSign=72315c8541bbebc77c341acb3f2610bc-1574580603-241i442i44i491
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://tvoetv.online/img/ch_icons/yumor_tv.jpg",Юмор ТВ
+http://50.7.136.50:8081/jumor_tv/index.m3u8?wmsAuthSign=6375767af035a214ffbc6ba50ec545c8-1574580609-241i442i44i491
+#EXTINF:-1 group-title="Региональные",Громадське тв
+https://www.youtube.com/watch?v=o4fnFBnY81Q&feature=youtu.be
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2053.png",Extreme Sports
+http://50.7.136.50:8081/ext_sport/index.m3u8?wmsAuthSign=488f0c8d2b459414f2912a4ef87e0cf6-1574580618-241i442i44i491
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/icn/setanta-sports.png",Setanta Sports
+http://50.7.136.50:8081/setanta_sport/index.m3u8?wmsAuthSign=2d18c2dea53fd384f9d7802b7b267e0d-1574580607-241i442i44i491
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a000001523659f940cdd2c16c2feffa5cee/orig",Беларусь 5
+http://50.7.136.50:8081/bel5/index.m3u8?wmsAuthSign=8f49f487dd184a7274b783687765cafc-1574580623-241i442i44i491
+#EXTINF:-1 group-title="Спорт",КАЗспорт
+http://50.7.136.50:8081/kaz_sp/index.m3u8?wmsAuthSign=a275a7cdd15a39438520fdbf3a0f99ba-1574580614-241i442i44i491
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a000001533cdd17887643d3fb857edbe0a6/orig",Конный мир
+http://50.7.136.50:8081/konnyj_mir/index.m3u8?wmsAuthSign=54151c50e17427c007c643645d2bd266-1574580617-241i442i44i491
+#EXTINF:-1 group-title="Спорт",Сила ТВ
+http://50.7.136.50:8081/silatv/index.m3u8?wmsAuthSign=31ce5cfc03b5261682e3e56a608379a0-1574580615-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/amc.png",AMC
+http://50.7.136.50:8081/amc/index.m3u8?wmsAuthSign=5434d29ef5867f519083a72f209727d6-1574580610-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/1371.png",Amedia 1
+http://50.7.136.50:8081/amedia_1/index.m3u8?wmsAuthSign=16251b5dab6c1fba9c5298882a3e5edb-1574580598-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/918.png",Amedia 2
+http://50.7.136.50:8081/amedia_2/index.m3u8?wmsAuthSign=0603395eb17511cc46fe4fb044a5fa71-1574580600-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/2007.png",Amedia Hit
+http://50.7.136.50:8081/amediahit/index.m3u8?wmsAuthSign=eb012efc0b58733b17c001d6bfff93d7-1574580613-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/1372.png",Amedia Premium HD
+http://50.7.136.50:8081/amedia_pre/index.m3u8?wmsAuthSign=18f577361b33ff44ae436f5bb8b18f76-1574580597-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/foxlife.png",Fox Life
+http://50.7.136.50:8081/fox_l/index.m3u8?wmsAuthSign=b2782eeb1c3c59ca140587085ecf2081-1574580597-241i442i44i491
+#EXTINF:-1 group-title="Фильмы",MGM
+http://50.7.136.50:8081/mgm/index.m3u8?wmsAuthSign=a9a47f903e2d473edb274d1e35852def-1574580604-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/paramount-channel.png",Paramount Channel
+http://50.7.136.50:8081/param_chanel/index.m3u8?wmsAuthSign=40bce4d8227217b7b2a7d7e7f257040c-1574580615-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tvoetv.online/img/ch_icons/set.png",SET
+http://50.7.136.50:8081/set/index.m3u8?wmsAuthSign=cba62f68f305f8a37b9977e7b06dd693-1574580599-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/sony-scifi.png",SONY SCI-FI
+http://50.7.136.50:8081/sony_sci_fi/index.m3u8?wmsAuthSign=d96b238146d51cc6ec5fc6eb293f1a92-1574580601-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/sony-turbo.png",Sony Turbo
+http://50.7.136.50:8081/sony_turbo/index.m3u8?wmsAuthSign=76805e416d14b688d345fb9a5dc6d6d3-1574580611-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/spike.png",Spike
+http://50.7.136.50:8081/spike/index.m3u8?wmsAuthSign=1b49b6b96cbb5a224bede6c2a6d41f87-1574580617-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/309.png",TV XXI
+http://50.7.136.50:8081/tv21/index.m3u8?wmsAuthSign=24cf440fb77695b180b06d31270c01fa-1574580615-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/2233.png",Zee TV
+http://50.7.136.50:8081/zee_tv/index.m3u8?wmsAuthSign=e4aa26c72bcfaef61f053cc040e61686-1574580595-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/dom-kino.png",Дом кино
+http://50.7.136.50:8081/domkino/index.m3u8?wmsAuthSign=492c9ca7db44adfa66fa0d41b8809461-1574580598-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/dom-kino-premium.png",Дом кино Премиум
+http://50.7.136.50:8081/dom_prem/index.m3u8?wmsAuthSign=d831fc3c3f16b5695bdf8b81817ef7da-1574580611-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/eurokino.png",Еврокино
+http://50.7.136.50:8081/eurokino/index.m3u8?wmsAuthSign=7b7d2694a614799632aa0d438c01fe39-1574580602-241i442i44i491
+#EXTINF:-1 group-title="Фильмы",Иллюзион Плюс
+http://50.7.136.50:8081/illyuzion_pl/index.m3u8?wmsAuthSign=f3fe236af49bb8c82fdded2ffe7023f6-1574580596-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/indijskoe-kino.png",Индийское кино
+http://50.7.136.50:8081/indiya/index.m3u8?wmsAuthSign=78e8f7d864b7780bff7271bd3350fc8c-1574580601-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/1037.png",Кино ТВ
+http://50.7.136.50:8081/tv_kino/index.m3u8?wmsAuthSign=53394c06bd8e111c82557e11b23de6d1-1574580602-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/kino-premium_hd.png",КиноПремиум HD
+http://50.7.136.50:8081/kinoprem/index.m3u8?wmsAuthSign=553a7fb5581e3db5b775beedca0c62ce-1574580613-241i442i44i491
+#EXTINF:-1 group-title="Фильмы",Кинокомедия ТВ
+http://50.7.136.50:8081/komediya/index.m3u8?wmsAuthSign=9665d35bbb5c3878eb7fc2506ba15034-1574580597-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/kinomiks.png",Киномикс
+http://50.7.136.50:8081/kinomiks/index.m3u8?wmsAuthSign=e8d948e15ed3ba9bad4c46f2af017e09-1574580617-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/kinopokaz.png",Кинопоказ
+http://50.7.136.50:8081/kinopokaz/index.m3u8?wmsAuthSign=730758541bc1216bd817ab7e77fd4aa2-1574580618-241i442i44i491
+#EXTINF:-1 group-title="Фильмы",Кинопоказ 1 HD
+http://50.7.136.50:8081/kinopokaz1/index.m3u8?wmsAuthSign=4d94c2a76d0197e6dd6e55cfe7fa2ad2-1574580614-241i442i44i491
+#EXTINF:-1 group-title="Фильмы",Кинопоказ 2 HD
+http://50.7.136.50:8081/kinopokaz2/index.m3u8?wmsAuthSign=58885d4549f0d42233c879d5962c0ed4-1574580615-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/kinopremiera.png",Кинопремьера
+http://50.7.136.50:8081/kinopremera/index.m3u8?wmsAuthSign=a03b342e0cc970725564cbe04af3aa6a-1574580615-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/kinosvidanie.png",Киносвидание
+http://50.7.136.50:8081/kinosvidanie/index.m3u8?wmsAuthSign=79531062e81349b7d195f430aacab60d-1574580618-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/mir-seriala.png",Мир сериала
+http://50.7.136.50:8081/mirseriala/index.m3u8?wmsAuthSign=1542da544f120122bfedb723d10daa79-1574580613-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/muzhskoe-kino.png",Мужское кино
+http://50.7.136.50:8081/myz_kino/index.m3u8?wmsAuthSign=841e5f4e5ff11c4125804cdb3fc18acb-1574580607-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/nst.png",НСТ
+http://50.7.136.50:8081/nst/index.m3u8?wmsAuthSign=e3205110db4f054297943671e042a1cb-1574580594-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/ntv-serial.png",НТВ Сериал
+http://50.7.136.50:8081/ntv_serial/index.m3u8?wmsAuthSign=d11a423b1d11a507c31eb88c7655c885-1574580616-241i442i44i491
+#EXTINF:-1 group-title="Фильмы",НТВ Хит
+http://50.7.136.50:8081/ntv_xit/index.m3u8?wmsAuthSign=476fd1bcb8d95bd979a7ef7685273ad5-1574580616-241i442i44i491
+#EXTINF:-1 group-title="Фильмы",Наш Кинороман
+http://50.7.136.50:8081/nashe/index.m3u8?wmsAuthSign=4b470b0b9590e9c829921fa707c5a498-1574580609-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tvoetv.online/img/ch_icons/nashe_lyubimoe_kino.png",Наше любимое кино
+http://50.7.136.50:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=af2de024c0f8e85c087a8315c7a272d0-1574580618-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/nashe-novoe-kino.png",Наше новое кино
+http://50.7.136.50:8081/nashe_nov_kino/index.m3u8?wmsAuthSign=fbd58ed03bee713c3a679dd34c3925ca-1574580617-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/1588.png",Остросюжетное HD
+http://50.7.136.50:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=c62d553f9153218d7d017d4a1006551f-1574580603-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/rodnoe-kino.png",Родное кино
+http://50.7.136.50:8081/rodnoekino/index.m3u8?wmsAuthSign=6e6f43d593b0349a5fae044e93cb134e-1574580617-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/1620.png",Русская комедия
+http://50.7.136.50:8081/ryskomedi/index.m3u8?wmsAuthSign=319e79b58b05e78f256bcfa3cb2fdbfd-1574580613-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/russky-illuzion.png",Русский Иллюзион
+http://50.7.136.50:8081/illuzion_rus/index.m3u8?wmsAuthSign=3b433c1001ac12db622d97053b7d554e-1574580596-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/russky-bestseller.png",Русский бестселлер
+http://50.7.136.50:8081/rys_bes/index.m3u8?wmsAuthSign=575cc18e588d4e176466ce97ca0f92cd-1574580600-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/rus-detektiv.png",Русский детектив
+http://50.7.136.50:8081/rys_dete/index.m3u8?wmsAuthSign=370ecbdccbdcb5b3366cf145a7d60cf2-1574580604-241i442i44i491
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://iptvx.one/icn/russky-roman.png",Русский роман
+http://50.7.136.50:8081/rys_roman/index.m3u8?wmsAuthSign=14e1a7e1feb7cf7deea034f6d63d3aa1-1574580604-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/1plus1.png",1+1
+http://50.7.136.50:8081/1pl1/index.m3u8?wmsAuthSign=8b12d05a76f9f4ca2789581a450ec16c-1574580619-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="http://epg.it999.ru/img/2166.png",8 канал
+http://50.7.136.50:8081/8_kanal/index.m3u8?wmsAuthSign=4b11c7c56dfcb5f86f0386063838b03f-1574580602-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ictv.png",ICTV
+http://50.7.136.50:8081/ictv/index.m3u8?wmsAuthSign=8dbe6179b3450e608f0b995852737525-1574580619-241i442i44i491
+#EXTINF:-1 group-title="Центральные",UA Первый
+http://50.7.136.50:8081/per_nac/index.m3u8?wmsAuthSign=7dc53559fd9f74a4c1737918bf25a94b-1574580621-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний
+http://50.7.136.50:8081/domashni/index.m3u8?wmsAuthSign=744e2a09e68af640ef2f70a986b2f0e1-1574580595-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда
+http://50.7.136.50:8081/zvezda/index.m3u8?wmsAuthSign=60cd2ae5164a4dec2923b06290e46a86-1574580605-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="http://epg.it999.ru/img/2263.png",Интер
+http://50.7.136.50:8081/inter/index.m3u8?wmsAuthSign=a6b739877a5e81f16d7e9d7c8c722811-1574580619-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://ai-i1.infcdn.net/icons_siandroid/png/200/8427/8427900.png",Красная Линия
+http://50.7.136.50:8081/rline/index.m3u8?wmsAuthSign=6766ae71ddb1477386c07160d722ef5a-1574580613-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/mir.png",Мир
+http://50.7.136.50:8081/mir/index.m3u8?wmsAuthSign=53f2d612726079847aaa7c342fc5b653-1574580606-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ
+http://50.7.136.50:8081/ntv/index.m3u8?wmsAuthSign=b9837de5b09af62ef69d9a241d361139-1574580592-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://lugasat.org.ua/images/auto/2017-06/85aba10104.jpeg",НТВ Мир
+http://50.7.136.50:8081/ntv_mir/index.m3u8?wmsAuthSign=05bf856e5eadaa7c4b61e4a1c47173d4-1574580616-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntn.png",НТН
+https://edge3.iptv.macc.com.ua/img/ntn_2/index.m3u8?wmsAuthSign=84cf6a2a7cf061d4e803485c2f9d1f2b-1574580620-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/nostalgia.png",Ностальгия
+http://50.7.136.50:8081/nostalgiya/index.m3u8?wmsAuthSign=ceb02836b572892da2be425e38159c75-1574580608-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/otr_ru.png",ОТР
+http://50.7.136.50:8081/otr/index.m3u8?wmsAuthSign=6b9cdd05ba7465f1f62bf6a531ffe1b0-1574580603-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал
+http://50.7.136.50:8081/perkanal/index.m3u8?wmsAuthSign=164e9e3c4aa0c385279e50d2b216e997-1574580593-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал
+http://50.7.136.50:8081/5kanal/index.m3u8?wmsAuthSign=78c5ddc9323ebb31453d455dd7da1857-1574580599-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
+http://50.7.136.50:8081/ren/index.m3u8?wmsAuthSign=da2530be6b590c9cc343044bed8dba34-1574580593-241i442i44i491
+#EXTINF:-1 group-title="Центральные",РТР Планета
+http://50.7.136.50:8081/rtr/index.m3u8?wmsAuthSign=16d7c2511adb73446cd1132d43a47421-1574580604-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
+http://50.7.136.50:8081/ros_1/index.m3u8?wmsAuthSign=9fc6e1c139cce24543bc0ee9869ce00f-1574580593-241i442i44i491
+#EXTINF:-1 group-title="Центральные",Россия РТР
+http://50.7.136.50:8081/rtr/index.m3u8?wmsAuthSign=f6a03aa888f853e60222cf3ce28b8024-1574580608-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/stb.png",СТБ
+http://50.7.136.50:8081/stb/index.m3u8?wmsAuthSign=8d83328884dffa85662da147177d386f-1574580619-241i442i44i491
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр
+http://50.7.144.75:8081/tvc/index.m3u8?wmsAuthSign=bea7977d095a8ce199634aaf202a96a6-1574580598-241i442i44i491
